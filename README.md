@@ -1,129 +1,79 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MD+Mehbub+Ul+Islam;Angular+Developer;Open+Source+Contributor;Building+Tools+for+the+Web" alt="Typing SVG" />
+  <!-- CYBERPUNK ANIMATED SVG HEADER -->
+  <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <style>
+        @keyframes neonPulse {
+          0%, 100% { text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff; }
+          50% { text-shadow: 0 0 2px #0ff, 0 0 5px #0ff, 0 0 8px #0ff; }
+        }
+        @keyframes glitch1 {
+          0%, 100% { transform: skew(0deg, 0deg); opacity: 1; }
+          95% { transform: skew(0deg, 0deg); opacity: 1; }
+          96% { transform: skew(5deg, 2deg); opacity: 0.8; }
+          97% { transform: skew(-3deg, -1deg); opacity: 0.9; }
+          98% { transform: skew(2deg, 0deg); opacity: 1; }
+        }
+        @keyframes glitch2 {
+          0%, 100% { transform: skew(0deg, 0deg); opacity: 0; }
+          95% { transform: skew(0deg, 0deg); opacity: 0; }
+          96% { transform: skew(-5deg, -2deg); opacity: 0.6; }
+          97% { transform: skew(3deg, 1deg); opacity: 0.4; }
+          98% { transform: skew(-2deg, 0deg); opacity: 0; }
+        }
+        @keyframes scanlines {
+          0% { transform: translateY(-100%); }
+          100% { transform: translateY(200%); }
+        }
+        .neon-text { fill: #0ff; font-family: 'Courier New', monospace; font-weight: bold; animation: neonPulse 1.5s infinite; }
+        .glitch-main { animation: glitch1 3s infinite; }
+        .glitch-overlay { animation: glitch2 3s infinite; }
+        .scanline { fill: none; stroke: rgba(0,255,255,0.2); stroke-width: 2; animation: scanlines 8s linear infinite; }
+        .grid-line { stroke: rgba(0,255,255,0.15); stroke-width: 1; }
+      </style>
+      <!-- Grid pattern -->
+      <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+        <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(0,255,255,0.1)" stroke-width="0.5"/>
+      </pattern>
+    </defs>
+    
+    <!-- Background with grid -->
+    <rect width="800" height="200" fill="url(#grid)" />
+    
+    <!-- Glitch layers -->
+    <text x="400" y="80" text-anchor="middle" class="neon-text glitch-main" font-size="32" letter-spacing="2">
+      MD MEHBUB UL ISLAM
+    </text>
+    <text x="400" y="80" text-anchor="middle" class="neon-text glitch-overlay" font-size="32" letter-spacing="2">
+      MD MEHBUB UL ISLAM
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="400" y="120" text-anchor="middle" fill="#ff00ff" font-family="'Courier New', monospace" font-size="18" letter-spacing="4">
+      &gt;&gt; ANGULAR CYBER-DEVELOPER &lt;&lt;
+    </text>
+    
+    <!-- Animated scanline -->
+    <line x1="0" y1="0" x2="800" y2="0" class="scanline" />
+    
+    <!-- Decorative corner brackets -->
+    <path d="M 20 20 L 50 20 M 20 20 L 20 50" stroke="#0ff" stroke-width="2" fill="none"/>
+    <path d="M 780 20 L 750 20 M 780 20 L 780 50" stroke="#0ff" stroke-width="2" fill="none"/>
+    <path d="M 20 180 L 50 180 M 20 180 L 20 150" stroke="#0ff" stroke-width="2" fill="none"/>
+    <path d="M 780 180 L 750 180 M 780 180 L 780 150" stroke="#0ff" stroke-width="2" fill="none"/>
+  </svg>
 </div>
-
-
-# 👋 Hello, I'm MD Mehbub Ul Islam
-
-### 🚀 Angular Developer | Open Source Contributor | Building Tools for the Web
-
-I specialize in building high‑performance, reusable Angular components and libraries. I love solving performance challenges and creating tools that make developers' lives easier.
-
----
-
-## 📦 Featured Packages
-
-Here are some open‑source Angular libraries I've built and published:
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 ngx-virtual-scroller</h3>
-      <p align="center">
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-virtual-scroller">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
-        </a>
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-virtual-scroller">
-          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
-        </a>
-      </p>
-      <p align="center">High‑performance virtual scrolling for Angular. Render 100k+ items at 60 FPS with constant memory usage.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📅 ngx-date-range-picker</h3>
-      <p align="center">
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-date-range-picker">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
-        </a>
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-date-range-picker">
-          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
-        </a>
-      </p>
-      <p align="center">A bilingual (English / Bengali) date range picker with responsive design and language toggle.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MEHBUB-UL-ISLAM&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MD-MEHBUB-UL-ISLAM&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-mehbub-ul-islam-17b852257">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/MD-MEHBUB-UL-ISLAM">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<!-- Animated Angular Header -->
-
 
 <div align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" width="60" height="60" />
+  <code style="color:#0ff; background:#000; padding:4px 12px; border-radius:4px; border-left:3px solid #0ff;">&lt;⚡ SYSTEM_STATUS: ONLINE / READY_TO_DEPLOY ⚡&gt;</code>
 </div>
 
+---
 
+## 🧬 CYBER DECK
 
-```typescript
-import { Component, signal } from '@angular/core';
-
-@Component({
-  selector: 'app-profile',
-  standalone: true,
-  template: `
-    <h2>👨‍💻 {{ name() }}</h2>
-    <p>🚀 Angular packages published: <strong>{{ packages() }}</strong></p>
-    <p>⚡ Currently building: <strong>{{ currentProject() }}</strong></p>
-  `
-})
-export class ProfileComponent {
-  name = signal('MD Mehbub Ul Islam');
-  packages = signal(2);
-  currentProject = signal('ngx-data-grid (coming soon)');
-}
-🌐 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/md-mehbub-ul-islam-17b852257"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/MD-MEHBUB-UL-ISLAM"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=MD-MEHBUB-UL-ISLAM&label=Angular+Visitors&color=DD0031&style=flat" alt="Profile Views" /> </div>
-<div align="center"> <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i> </div> ```
-
-
-
-⭐️ *Feel free to explore my repositories and reach out for collaborations!* 
-
-
+```diff
++ >_ IDENTITY: MD MEHBUB UL ISLAM
++ >_ ROLE: ANGULAR ARCHITECT / OPEN SOURCE CYBER-FORGER
++ >_ MISSION: BUILD HIGH-PERFORMANCE, REUSABLE COMPONENTS
++ >_ CURRENT_LOAD: [████████████░░░░░░░] 68%
