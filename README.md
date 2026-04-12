@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MD+Mehbub+Ul+Islam;Angular+Developer;Open+Source+Contributor;Building+Tools+for+the+Web" alt="Typing SVG" />
+</div>
+
+
 # 👋 Hello, I'm MD Mehbub Ul Islam
 
 ### 🚀 Angular Developer | Open Source Contributor | Building Tools for the Web
@@ -86,12 +92,10 @@ Here are some open‑source Angular libraries I've built and published:
 ---
 
 <!-- Animated Angular Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MD+Mehbub+Ul+Islam;Angular+Developer;Open+Source+Contributor;Building+Tools+for+the+Web" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="80" height="80" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" width="60" height="60" />
 </div>
