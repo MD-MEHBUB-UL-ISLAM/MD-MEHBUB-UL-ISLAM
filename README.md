@@ -109,61 +109,7 @@ Here are some open‑source Angular libraries I've built and published:
 
 ## 🚀 Featured Angular Packages
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="20" /> 
-          ngx-virtual-scroller
-        </h3>
-        <p align="center">
-          <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-virtual-scroller">
-            <img src="https://img.shields.io/badge/REPO-2F64A3?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-virtual-scroller/packages">
-            <img src="https://img.shields.io/badge/npm-1.0.0-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-          </a>
-        </p>
-        <p align="center">
-          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" />
-        </p>
-        <p>⚡ Render <strong>100k+</strong> items at <strong>60 FPS</strong> with constant memory. Built with Angular's <code>OnPush</code> change detection and virtual scrolling.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="20" /> 
-          ngx-date-range-picker
-        </h3>
-        <p align="center">
-          <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-date-range-picker">
-            <img src="https://img.shields.io/badge/REPO-2F64A3?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-date-range-picker/packages">
-            <img src="https://img.shields.io/badge/npm-1.0.0-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-          </a>
-        </p>
-        <p align="center">
-          <img src="https://media.giphy.com/media/l0HU7JIqDHMaOKaO4/giphy.gif" width="100%" />
-        </p>
-        <p>🌐 Bilingual (EN / বাংলা) date picker with responsive design. Toggle languages with one click. Fully standalone Angular component.</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
----
-
-## ⚡ Angular Superpowers
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Angular-17-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Signals-0F0F11?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Standalone-3178C6?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</div>
 
 ---
 
