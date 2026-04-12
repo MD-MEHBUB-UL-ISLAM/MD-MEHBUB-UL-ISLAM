@@ -85,4 +85,125 @@ Here are some open‑source Angular libraries I've built and published:
 
 ---
 
-⭐️ *Feel free to explore my repositories and reach out for collaborations!*
+⭐️ *Feel free to explore my repositories and reach out for collaborations!* 
+
+
+
+
+
+
+
+
+<!-- Animated Angular Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MD+Mehbub+Ul+Islam;Angular+Developer;Open+Source+Contributor;Building+Tools+for+the+Web" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" width="60" height="60" />
+</div>
+
+---
+
+## 🚀 Featured Angular Packages
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="20" /> 
+          ngx-virtual-scroller
+        </h3>
+        <p align="center">
+          <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-virtual-scroller">
+            <img src="https://img.shields.io/badge/REPO-2F64A3?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-virtual-scroller/packages">
+            <img src="https://img.shields.io/badge/npm-1.0.0-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" />
+        </p>
+        <p>⚡ Render <strong>100k+</strong> items at <strong>60 FPS</strong> with constant memory. Built with Angular's <code>OnPush</code> change detection and virtual scrolling.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="20" /> 
+          ngx-date-range-picker
+        </h3>
+        <p align="center">
+          <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-date-range-picker">
+            <img src="https://img.shields.io/badge/REPO-2F64A3?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-date-range-picker/packages">
+            <img src="https://img.shields.io/badge/npm-1.0.0-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+          </a>
+        </p>
+        <p align="center">
+          <img src="https://media.giphy.com/media/l0HU7JIqDHMaOKaO4/giphy.gif" width="100%" />
+        </p>
+        <p>🌐 Bilingual (EN / বাংলা) date picker with responsive design. Toggle languages with one click. Fully standalone Angular component.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ⚡ Angular Superpowers
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-17-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Signals-0F0F11?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Standalone-3178C6?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+
+---
+
+## 📊 Angular Activity
+
+<div align="center">
+  <!-- Animated contribution snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-MEHBUB-UL-ISLAM/MD-MEHBUB-UL-ISLAM/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-MEHBUB-UL-ISLAM/MD-MEHBUB-UL-ISLAM/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MD-MEHBUB-UL-ISLAM/MD-MEHBUB-UL-ISLAM/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-MEHBUB-UL-ISLAM&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MEHBUB-UL-ISLAM&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🖥️ Angular Terminal
+
+```typescript
+import { Component, signal } from '@angular/core';
+
+@Component({
+  selector: 'app-profile',
+  standalone: true,
+  template: `
+    <h2>👨‍💻 {{ name() }}</h2>
+    <p>🚀 Angular packages published: <strong>{{ packages() }}</strong></p>
+    <p>⚡ Currently building: <strong>{{ currentProject() }}</strong></p>
+  `
+})
+export class ProfileComponent {
+  name = signal('MD Mehbub Ul Islam');
+  packages = signal(2);
+  currentProject = signal('ngx-data-grid (coming soon)');
+}
+🌐 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/md-mehbub-ul-islam-17b852257"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/MD-MEHBUB-UL-ISLAM"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=MD-MEHBUB-UL-ISLAM&label=Angular+Visitors&color=DD0031&style=flat" alt="Profile Views" /> </div>
+<div align="center"> <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i> </div> ```
