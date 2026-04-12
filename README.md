@@ -85,15 +85,6 @@ Here are some open‑source Angular libraries I've built and published:
 
 ---
 
-⭐️ *Feel free to explore my repositories and reach out for collaborations!* 
-
-
-
-
-
-
-
-
 <!-- Animated Angular Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MD+Mehbub+Ul+Islam;Angular+Developer;Open+Source+Contributor;Building+Tools+for+the+Web" alt="Typing SVG" />
@@ -127,3 +118,9 @@ export class ProfileComponent {
 🌐 Connect with Me
 <div align="center"> <a href="https://www.linkedin.com/in/md-mehbub-ul-islam-17b852257"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/MD-MEHBUB-UL-ISLAM"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=MD-MEHBUB-UL-ISLAM&label=Angular+Visitors&color=DD0031&style=flat" alt="Profile Views" /> </div>
 <div align="center"> <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i> </div> ```
+
+
+
+⭐️ *Feel free to explore my repositories and reach out for collaborations!* 
+
+
