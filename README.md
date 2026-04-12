@@ -105,33 +105,7 @@ Here are some open‑source Angular libraries I've built and published:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" width="60" height="60" />
 </div>
 
----
 
-## 🚀 Featured Angular Packages
-
-
-
----
-
-## 📊 Angular Activity
-
-<div align="center">
-  <!-- Animated contribution snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-MEHBUB-UL-ISLAM/MD-MEHBUB-UL-ISLAM/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-MEHBUB-UL-ISLAM/MD-MEHBUB-UL-ISLAM/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MD-MEHBUB-UL-ISLAM/MD-MEHBUB-UL-ISLAM/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-MEHBUB-UL-ISLAM&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MEHBUB-UL-ISLAM&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## 🖥️ Angular Terminal
 
 ```typescript
 import { Component, signal } from '@angular/core';
