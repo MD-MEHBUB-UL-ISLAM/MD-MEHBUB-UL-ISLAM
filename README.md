@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MD+Mehbub+Ul+Islam;Angular+Developer;Open+Source+Contributor;Building+Tools+for+the+Web" alt="Typing SVG" />
 </div>
@@ -21,10 +20,10 @@ Here are some open‑source Angular libraries I've built and published:
     <td width="50%">
       <h3 align="center">🚀 ngx-virtual-scroller</h3>
       <p align="center">
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-virtual-scroller">
+        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-virtual-scroller">
           <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
         </a>
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-virtual-scroller/packages">
+        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-virtual-scroller">
           <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
         </a>
       </p>
@@ -33,10 +32,10 @@ Here are some open‑source Angular libraries I've built and published:
     <td width="50%">
       <h3 align="center">📅 ngx-date-range-picker</h3>
       <p align="center">
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-date-range-picker">
+        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-date-range-picker">
           <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
         </a>
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-date-range-picker/packages">
+        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-date-range-picker">
           <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
         </a>
       </p>
