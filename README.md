@@ -57,10 +57,7 @@ Here are some open‑source Angular libraries I've built and published:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MD-MEHBUB-UL-ISLAM&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MEHBUB-UL-ISLAM&layout=compact&theme=radical&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MEHBUB-UL-ISLAM&theme=radical&hide_border=true" alt="GitHub Streak" />
