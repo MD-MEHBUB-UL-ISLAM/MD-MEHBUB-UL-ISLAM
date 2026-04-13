@@ -52,9 +52,6 @@ Here are some open‑source Angular libraries I've built and published:
         </a>
       </p>
       <p align="center">Professional video/audio recording for Angular. Pause/resume, playback controls, device selection, glass‑morphism UI.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/New-FF5722?style=flat" alt="NEW" />
-      </p>
     </td>
   </tr>  
 </table>
