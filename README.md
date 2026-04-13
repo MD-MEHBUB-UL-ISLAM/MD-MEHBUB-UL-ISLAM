@@ -17,7 +17,7 @@ Here are some open‑source Angular libraries I've built and published:
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="33%">
       <h3 align="center">🚀 ngx-virtual-scroller</h3>
       <p align="center">
         <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-virtual-scroller">
@@ -29,7 +29,7 @@ Here are some open‑source Angular libraries I've built and published:
       </p>
       <p align="center">High‑performance virtual scrolling for Angular. Render 100k+ items at 60 FPS with constant memory usage.</p>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">📅 ngx-date-range-picker</h3>
       <p align="center">
         <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-date-range-picker">
