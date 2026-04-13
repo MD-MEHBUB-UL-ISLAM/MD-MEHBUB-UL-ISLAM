@@ -41,7 +41,19 @@ Here are some open‑source Angular libraries I've built and published:
       </p>
       <p align="center">A bilingual (English / Bengali) date range picker with responsive design and language toggle.</p>
     </td>
-  </tr>
+      <td width="33%">
+      <h3 align="center">📅 ngx-date-range-picker</h3>
+      <p align="center">
+        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-date-range-picker">
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
+        </a>
+        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-date-range-picker">
+          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
+        </a>
+      </p>
+      <p align="center">A bilingual (English / Bengali) date range picker with responsive design and language toggle.</p>
+    </td>
+  </tr>  
 </table>
 
 ---
