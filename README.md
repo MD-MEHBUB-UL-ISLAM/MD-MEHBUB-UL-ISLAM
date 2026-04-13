@@ -17,7 +17,7 @@ Here are some open‑source Angular libraries I've built and published:
 
 <table>
   <tr>
-    <!-- Existing Packages -->
+    <!-- Row 1 -->
     <td width="33%">
       <h3 align="center">🚀 ngx-virtual-scroller</h3>
       <p align="center">
@@ -55,8 +55,8 @@ Here are some open‑source Angular libraries I've built and published:
       <p align="center">Professional video/audio recording for Angular. Pause/resume, playback controls, device selection, glass‑morphism UI.</p>
     </td>
   </tr>  
-  <!-- New row for ngx-dynamic-form-builder -->
   <tr>
+    <!-- Row 2 -->
     <td width="33%">
       <h3 align="center">📋 ngx-dynamic-form-builder</h3>
       <p align="center">
@@ -69,8 +69,18 @@ Here are some open‑source Angular libraries I've built and published:
       </p>
       <p align="center">JSON-driven dynamic form builder for Angular with validation, conditional logic, and 15+ field types.</p>
     </td>
-    <!-- Empty cells to maintain table structure or add more packages later -->
-    <td width="33%"></td>
+    <td width="33%">
+      <h3 align="center">🤖 ngx-ai-assist</h3>
+      <p align="center">
+        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-ai-assist">
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
+        </a>
+        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-ai-assist">
+          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
+        </a>
+      </p>
+      <p align="center">AI-powered components for Angular - Chat, Autocomplete, Content Generator, Sentiment Analysis & more. OpenAI integration with streaming support.</p>
+    </td>
     <td width="33%"></td>
   </tr>
 </table>
