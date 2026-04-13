@@ -17,7 +17,7 @@ Here are some open‑source Angular libraries I've built and published:
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center">🚀 ngx-virtual-scroller</h3>
       <p align="center">
         <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-virtual-scroller">
