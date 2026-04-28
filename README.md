@@ -82,7 +82,7 @@ Here are some open‑source Angular libraries I've built and published:
       <p align="center">AI-powered components for Angular - Chat, Autocomplete, Content Generator, Sentiment Analysis & more. OpenAI integration with streaming support.</p>
     </td>
        <td width="33%">
-      <h3 align="center">🤖ngx-attack-detector</h3>
+      <h3 align="center">🛡️ngx-attack-detector</h3>
       <p align="center">
         <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-attack-detector">
           <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
@@ -94,9 +94,6 @@ Here are some open‑source Angular libraries I've built and published:
       <p align="center">Script Alert Detector.</p>
     </td>
 
-
-    
-    <td width="33%"></td>
   </tr>
 </table>
 
