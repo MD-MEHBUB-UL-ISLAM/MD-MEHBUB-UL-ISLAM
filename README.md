@@ -1,180 +1,159 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+MD+Mehbub+Ul+Islam;Angular+Developer;Open+Source+Contributor;Building+Tools+for+the+Web" alt="Typing SVG" />
-</div>
+# MD Mehbub Ul Islam
 
-
-# 👋 Hello, I'm MD Mehbub Ul Islam
-
-### 🚀 Angular Developer | Open Source Contributor | Building Tools for the Web
-
-I specialize in building high‑performance, reusable Angular components and libraries. I love solving performance challenges and creating tools that make developers' lives easier.
-
----
-
-## 📦 Featured Packages
-
-Here are some open‑source Angular libraries I've built and published:
-
-<table>
-  <tr>
-    <!-- Row 1 -->
-    <td width="33%">
-      <h3 align="center">🚀 ngx-virtual-scroller</h3>
-      <p align="center">
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-virtual-scroller">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
-        </a>
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-virtual-scroller">
-          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
-        </a>
-      </p>
-      <p align="center">High‑performance virtual scrolling for Angular. Render 100k+ items at 60 FPS with constant memory usage.</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">📅 ngx-date-range-picker</h3>
-      <p align="center">
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-date-range-picker">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
-        </a>
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-date-range-picker">
-          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
-        </a>
-      </p>
-      <p align="center">A bilingual (English / Bengali) date range picker with responsive design and language toggle.</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🎥 ngx-video-recorder</h3>
-      <p align="center">
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-video-recorder">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
-        </a>
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-video-recorder">
-          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
-        </a>
-      </p>
-      <p align="center">Professional video/audio recording for Angular. Pause/resume, playback controls, device selection, glass‑morphism UI.</p>
-    </td>
-  </tr>  
-  <tr>
-    <!-- Row 2 -->
-    <td width="33%">
-      <h3 align="center">📋 ngx-dynamic-form-builder</h3>
-      <p align="center">
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-dynamic-form-builder">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
-        </a>
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-dynamic-form-builder">
-          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
-        </a>
-      </p>
-      <p align="center">JSON-driven dynamic form builder for Angular with validation, conditional logic, and 15+ field types.</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🤖 ngx-ai-assist</h3>
-      <p align="center">
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-ai-assist">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
-        </a>
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-ai-assist">
-          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
-        </a>
-      </p>
-      <p align="center">AI-powered components for Angular - Chat, Autocomplete, Content Generator, Sentiment Analysis & more. OpenAI integration with streaming support.</p>
-    </td>
-       <td width="33%">
-      <h3 align="center">🛡️ngx-attack-detector</h3>
-      <p align="center">
-        <a href="https://github.com/MD-MEHBUB-UL-ISLAM/ngx-attack-detector">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="Repo">
-        </a>
-        <a href="https://github.com/users/MD-MEHBUB-UL-ISLAM/packages/npm/package/ngx-attack-detector">
-          <img src="https://img.shields.io/badge/Package-1.0.0-brightgreen?logo=npm" alt="Package">
-        </a>
-      </p>
-      <p align="center">Script Alert Detector.</p>
-    </td>
-
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-
+## Angular Developer | Open Source Creator | Performance Optimization Specialist
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MEHBUB-UL-ISLAM&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MD-MEHBUB-UL-ISLAM&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-mehbub-ul-islam-17b852257">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/md-mehbub-ul-islam-17b852257" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/MD-MEHBUB-UL-ISLAM">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/MD-MEHBUB-UL-ISLAM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mdmehbubulislam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- Animated Angular Header -->
+## 🎯 About Me
 
+I'm a **frontend-focused Angular engineer** with a passion for building high-performance, production-grade applications and reusable component libraries. My expertise spans modern Angular architecture (signals, standalone components), responsive UI design, internationalization, and performance optimization. I've published **6 npm packages** with a focus on solving real-world developer challenges.
+
+**Key Strengths:**
+- 🏗️ **Architecture & Design Patterns** – Standalone components, signal-based state management, dependency injection optimization
+- ⚡ **Performance** – Virtual scrolling (100k+ items @ 60 FPS), memory-efficient rendering, bundle size optimization
+- 🌍 **Scalability** – Bilingual (EN/BN) applications, responsive design systems, reusable component libraries
+- 🧪 **Code Quality** – TypeScript strict mode, RxJS reactive patterns, maintainable, production-ready code
+
+---
+
+## 📦 Open Source Impact
+
+### Published npm Packages
+
+| Package | Purpose | Key Features |
+|---------|---------|--------------|
+| **ngx-virtual-scroller** | High-performance list rendering | Render 100k+ items at 60 FPS with constant memory |
+| **ngx-ai-assist** | AI-powered components | Chat, autocomplete, content generator with OpenAI streaming |
+| **ngx-dynamic-form-builder** | JSON-driven form generation | 15+ field types, validation, conditional logic |
+| **ngx-date-range-picker** | Bilingual date selection | English/Bengali UI, responsive design, language toggle |
+| **ngx-video-recorder** | Media capture | Pause/resume, playback, device selection, glass-morphism UI |
+| **ngx-attack-detector** | Security monitoring | Script injection detection |
+
+📊 **Stats:** 6 published packages | Focus on developer experience and performance
+
+---
+
+## 🛠️ Technical Expertise
+
+### Core Technologies
+```
+Angular 19+  •  TypeScript  •  RxJS  •  Signals  •  Standalone Components
+Tailwind CSS  •  Responsive Design  •  Transloco i18n  •  HTML5/CSS3
+```
+
+### Specializations
+- **Frontend Architecture:** Standalone components, custom pipes, service-based patterns
+- **State Management:** Angular signals, computed properties, reactive patterns
+- **Component Libraries:** Reusable, documented, npm-published packages
+- **Internationalization:** Bilingual (English/Bengali) applications with dynamic language switching
+- **Performance Tuning:** Virtual scrolling, lazy loading, bundle optimization
+- **Responsive Design:** Mobile-first development, breakpoint strategies, adaptive layouts
+
+### Tools & Ecosystem
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 💼 What You'll Get Working With Me
+
+✅ **Clean, maintainable code** following SOLID principles and Angular best practices  
+✅ **Performance-first mindset** – optimized rendering, lazy loading, bundle size awareness  
+✅ **Reusable components** – well-documented, tested, and production-ready  
+✅ **Responsive expertise** – pixel-perfect designs across all devices  
+✅ **Bilingual support** – seamless English/Bengali internationalization  
+✅ **Proactive problem solver** – finds bottlenecks and implements solutions  
+
+---
+
+## 📈 Achievements
+
+- 🎁 **Published 6 npm packages** on public registries
+- 💡 **Developed high-performance solutions** for rendering 100k+ items at 60 FPS
+- 🌐 **Built bilingual applications** with seamless EN/BN language switching
+- 🚀 **Optimized applications** through virtual scrolling, lazy loading, and reactive patterns
+- 📚 **Created reusable libraries** solving real-world developer challenges
+
+---
+
+## 🎓 How I Work
+
+- **Modern Angular First** – Latest features (signals, standalone components, control flow syntax)
+- **Type Safety** – Strict TypeScript, zero implicit any
+- **Responsive & Mobile-Ready** – Tailwind CSS, mobile-first approach
+- **Scalable & Maintainable** – Clean architecture, DRY principles, documented code
+- **Performance Conscious** – Lazy loading, virtual scrolling, bundle optimization
+- **Collaborative** – Clear communication, code reviews, knowledge sharing
+
+---
+
+## 🚀 Currently Building
+
+**ngx-data-grid** – Advanced data grid component with sorting, filtering, pagination, and virtual scrolling *(coming soon)*
+
+---
+
+## 📞 Let's Connect!
+
+💼 **Open to opportunities** in Angular frontend development, component library creation, and performance optimization roles.
+
+- **LinkedIn:** [md-mehbub-ul-islam-17b852257](https://linkedin.com/in/md-mehbub-ul-islam-17b852257)
+- **GitHub:** [MD-MEHBUB-UL-ISLAM](https://github.com/MD-MEHBUB-UL-ISLAM)
+- **Email:** [mdmehbubulislam@gmail.com](mailto:mdmehbubulislam@gmail.com)
+
+---
 
 <div align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" width="60" height="60" />
-</div>
 
-
+### 💻 Sample Code Snippet
 
 ```typescript
-import { Component, signal } from '@angular/core';
-
+// Signal-based component with computed properties
 @Component({
-  selector: 'app-profile',
+  selector: 'app-job-listing',
   standalone: true,
   template: `
-    <h2>👨‍💻 {{ name() }}</h2>
-    <p>🚀 Angular packages published: <strong>{{ packages() }}</strong></p>
-    <p>⚡ Currently building: <strong>{{ currentProject() }}</strong></p>
+    @for (job of filteredJobs(); track job.id) {
+      <div class="job-card">
+        {{ job.title }} - {{ formatSalary(job.salary) }}
+      </div>
+    }
   `
 })
-export class ProfileComponent {
-  name = signal('MD Mehbub Ul Islam');
-  packages = signal(2);
-  currentProject = signal('ngx-data-grid (coming soon)');
+export class JobListingComponent {
+  jobs = signal<Job[]>([]);
+  searchTerm = signal('');
+  
+  filteredJobs = computed(() =>
+    this.jobs().filter(j => 
+      j.title.includes(this.searchTerm())
+    )
+  );
 }
-🌐 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/md-mehbub-ul-islam-17b852257"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/MD-MEHBUB-UL-ISLAM"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=MD-MEHBUB-UL-ISLAM&label=Angular+Visitors&color=DD0031&style=flat" alt="Profile Views" /> </div>
-<div align="center"> <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i> </div> ```
+```
 
+---
 
+<p align="center">
+  <i>"Code quality is not just about functionality—it's about creating maintainable solutions that scale with your team."</i>
+</p>
 
-⭐️ *Feel free to explore my repositories and reach out for collaborations!* 
+⭐ **[View my repositories →](https://github.com/MD-MEHBUB-UL-ISLAM)**
+
+</div>
